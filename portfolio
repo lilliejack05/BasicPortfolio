@@ -1,0 +1,78 @@
+Doctype <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title: LaToya R. Hill: Portfolio>
+     <link rel= " stylesheet"type="text/css"href="assets/css/style.css">
+</head>
+
+</body>
+<div class="content">
+ <div class="content-inside">
+    
+    <header>
+     <div class="header">
+      <h1>LaToya R. Hill</h1>      
+    
+      <nav>
+        <ul>
+             <li><a href="index.html">About</a><li>
+            <li><a class"portfolio" href="Porfolio.html">portfolio</a><li>
+            <li><a href="contact.html"> contact</a><li>     
+           <ul>
+          </nav>
+          </div>
+          </header>
+
+        <section>
+
+        <h2>Portfolio</h2>
+        
+              <hr>
+
+     <div class= "portfolio container">  
+<div class="portfolio-item">
+    <img class="portfolio-img" src="assets/images/hangman.jpg"alt= "Game of Hangman on chalkboard"/>
+   <a href="#"> p class= "portfolio-caption"Hangman</p></a>
+
+</div>
+
+ <div class= "portfolio-item">
+   <img class="portfolio img"srcc="assets/images/rpg.jpg"alt="Board game"/>
+ <a href="#"><p class="portfolio-caption">RPG.Game</p></a>
+ 
+ </br>
+ 
+ </div class="portfolio-item">
+<img-class="portfolio-img" src="assets/images/trivia.jpg"alt="Question marks"/>
+<a href="#"><p class="portfolio-caption">Trivia game</p></a>
+</div>
+
+<div class="portfolio-item">
+   <img class="portfolio-img" src="assets/images/widget.jpg"alt="phone application"/> 
+ <a href="#"><p class="portfolio-caption">Rutgers Info Widget</p></a>
+ </div>
+
+</br>
+
+<div class="portfolio-item">
+    <img class="portfolio-img" src= "assets/images/rps.jpg"alt="Rock, Paper, Sissors icons"/>
+    <a href="#"><p class="portfolio-caption">Rock,paper, scissors</p></a>
+  </div>
+  </div>
+  
+  </section>
+  </div>
+  </div>
+
+  <footer class="footer">
+      <p>LaToya R> Hill|@ Copy; 2019
+     </footer> 
+     
+ </body>
+
+</html>
+ 
+</body>
+   
+</html>
