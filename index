@@ -1,0 +1,56 @@
+Doctype <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title: LaToya R. Hill: About>
+     <link rel= " stylesheet"type="text/css"href="assets/css/style.css">
+</head>
+
+</body>
+<div class="content">
+ <div class="content-inside">
+     <header>
+     <div class="header">
+      <h1>LaToya R. Hill</h1>      
+    
+      <nav>
+        <ul>
+       <li><a href="index.html">About</a><li>
+       <li><a class"portfolio" href="Porfolio.html">portfolio</a><li>
+        <li><a href="contact.html"> contact</a><li>     
+        </ul>
+        </nav>
+        </div>
+        </header>
+
+        <section>
+
+        <h2>About Me</h2>
+        
+            <hr>
+
+<article class= "container">  
+<img class="bio-pic" src="assets/images/bio-pic.jpg"alt= "bio-pic of LaToya R. Hill"/>
+   <p class="bio">
+    Hi everyone. Thank you for checking out my page. My name is LaToya Hill. I've lived in Nashville over the past 6 years, I have enjoy the variety of festivals, games and other activities that are always going on here. The most enjoyable scenery here is for me would be the every changing Foodie scene.
+<br>
+<br>
+    I am currently employed within Tennessee Valley Healthcare System as a Program Speciliast, in which I verify the credentials of the current staff as well as employeers seekin employment within our healthcare system. The position requires communication with the providers, previous employeers as well as educational facilities to ensure the credentials of the providers are valid.
+<br>
+<br>
+    I am recently retired from the military having served within the U.S.Army and Mississippi Army National Guard. I've been blessed to travel the world and serve beside wonderful men and women that are as close to me as any family member. I have enjoyed my years of service to country and now it is time to serve my family and self. And in serving myself my intentions are to coomplete this course with a full understanding of all the material covered.
+ <br>
+ <br>
+ <a class="bio-link"href="https://www.linkedin.com/in/latoya.hill-043ba444/"target="_blank">LinkedIn</a>|<a class></a>
+ <p>
+ </article>
+ </section>
+ </div>
+</div>
+<footer class="footer">
+ <p>LaToya R. Hill|@ Copy: 2019</p>
+ </footer>
+ 
+</body>
+   
+</html>
