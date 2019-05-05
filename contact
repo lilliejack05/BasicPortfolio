@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+    <title>LaToya R.Hill: Contact</title>
+    <link rel= " stylesheet" type= "text/css"href="assets/css/style.css">
+    </head>
+
+<body>
+    <div class="content">
+     <div class="content-inside">
+        <header>
+        <div class="header">
+          <h1>LaToya R. Hill</h1> 
+          
+          <nav>
+            <ul>
+              <li class=navlink><a href="index.html"> About </a></li>
+              <li class=navlink><a href="contact.html"> Contact</a></li>
+              <li class=navlink><a href="portfolio.html">Portfolio</a></li>
+          <ul></ul>
+         </nav>
+         </div>
+         </header>
+
+         <section>
+        
+            <h2>contact</h2>
+
+            <hr>
+
+           <div class="container">
+               <form>
+              <p class="label">Name</p>     
+              <input type="text"name= name placeholder = e.g ><br>
+
+              <p class="label">Message</p>
+              <input type="email"name="email"placeholder="youme@yahoo.com"><br>
+
+              <p class="label">message</p>
+
+             <textarea rows="10" cols="100"placeholder="How's it coming along?"></textarea><br>
+               <button type="submit" value="submit">submit</button>   
+            </form>
+           </div>     
+        
+           </section>  
+          </div> 
+          </div>
+           <footer class="footer">
+               <p>LaToya R. Hill | @ Copyright:2019</p>
+</html>
