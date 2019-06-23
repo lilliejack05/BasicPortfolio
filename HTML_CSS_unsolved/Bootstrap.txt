@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Which Hawaii Island to Visit</title>
+  <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet"> 
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+  <header>
+    <h1>Hawaii</h1>
+  </header>
+
+  <div>
+
+    <P> Like a lot of visitors to Hawaii, you're probably wondering which Hawaii island to visit and thinking about which one would be best for you and your travel party. The islands are very diverse and each one has its own unique offerings, making choosing an island rather difficult. And once you've started visiting the islands, coming back to a different island can often feel like a totally different place with a whole new set of experiences, sights, and attractions.</p>
+
+<P> Having been to all the major islands, we admit we have our own personal favorite. However, please know that each island truly is spectacular and one is most certainly not "better" than another. That said, here we'll objectively tell you about the major islands in the Hawaiian chain so you can pick the island that's just right for you. And, like us, we’re sure you’ll soon have a favorite. Take the handy quiz below and read our companion article, Selecting the Best Hawaiian Island in order to find the best Hawaiian island for you. But first, let's review each island and its highlights.</P>
+
+
+
+
+
+      </ul>
+    </section>
+  </div>
+  
+</body>

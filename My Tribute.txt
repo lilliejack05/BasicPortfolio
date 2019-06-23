@@ -1,0 +1,90 @@
+fanpage.html
+  `<!DOCTYPE html>`
+    `<html lang="en">`
+    `<head>`
+    `<meta charset="UTF-8">`
+
+        <title>Best Female Gospel Group!</title>
+
+    `</head>`
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+    `<body>`
+
+
+
+        <h1>Clark Sisters Fan Site!</h1>
+
+    <p>The Clark Sisters are an American gospel vocal group consisting of five sisters. The Clark Sisters are the daughters of gospel musician and choral director Mattie Moss Clark. They are credited for helping to bring gospel music to the mainstream and are considered as pioneers of contemporary gospel. Their biggest crossover hits include: "Is My Living in Vain?", "Hallelujah", "He Gave Me Nothing to Lose", "Endow Me", their hit song "Jesus Is A Love Song", "Pure Gold", "Expect a Miracle", and their largest mainstream crossover gold certified, "You Brought the Sunshine". The Clark Sisters have won three Grammy Awards. With 16 albums to their credit and millions in sales, the Clark Sisters are the highest-selling female gospel group in history.<p>
+    <h1>Members<h1>
+Jacky Clark Chisholm
+Elbernita "Twinkie" Clark-Terrell
+Dorinda Clark-Cole
+Karen Clark Sheard
+
+<h2>Favorite Song<h2>
+Is My Living in Vain
+    <ul>
+
+        https://www.youtube.com/watch?v=pWtrpuPHDcM
+>
+
+
+    </ul>
+
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXFALBhwdJIV+9yrssVVoo6bJUtL7kI2y1Yq3EX8ov98KZsQTYzHAVINooCmlJmNIPORFR0pm89OlUdO7gZ1EdM/qFIfUBCxY763hhrXLCQBqfl8K2DlBJ1qgQcYZMujrPpf6U9KjpTPss/rROsGOsU54pwkjlUHVbzSPS6Jfdt/mdd5WUL3lZStJSBKN67wfvEVlZTUdDzodcPdArSqysoD1l5RUinLZnueZrKyl5PKO6fzhSTenj2csJU/jFFIJztiSN2QmPWt1lS5Pw5/Rf1RN8W/Cj/ANv7MsvDYNvXIPSll4Fs3KE6cKysrxcvJ8/JuyPOtpLDqsqcydCABx4VV7WPce/zCFFJUAcqQYtaUgEjrWVler0G0MlfkW/D39/H6/2OXTTj2SvjsGCAQVqkEAiwBFjwJNbrKsxeZHq/Fv8AjsvciAIAF91ALWSqDcVlZVc+T48gfbVwpbWUmDB+VQxzEKVs/DhRmFqA6eL+Q9KysoZeUbi/EQzYwQyo/wCoDyufoKjLZ161lZVWDyL99zs/4jCcOkHXgaSxHu1lZThRmwxmxTYNx4v+RR+YFPGIHyrKyouq8yPR6LysTyjhWVlZUxcf/9k=" alt="Clark Sisters">
+
+    <imh src="data:image/data:image/jpeg;base64,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
+    <br>
+
+    <a href="https://www.ebony.com/entertainment/the-clark-sisters-biopic-lifetime/>
+
+`</body>`
+
+`</html>`

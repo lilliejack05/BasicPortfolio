@@ -1,0 +1,218 @@
+<style> * {
+    margin: 0;
+    border: 0;
+  }
+  
+  .bg-image {
+    background-image: url("http://www.planwallpaper.com/static/images/518079-background-hd.jpg");
+    border: 2px solid grey;
+    width: 92%;
+    height: 940px;
+    opacity: 1;
+  }
+  
+  .logo {
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+  }
+  
+  .header-block {
+    background-color: #fff;
+    width: 90%;
+    height: 70px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: -920px;
+  }
+  
+  nav {
+    margin-top: -70px;
+    margin-left: 400px;
+    max-width: 750px;
+    padding: 22px;
+    text-align: center;
+    font-family: "Century Gothic";
+    /* box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);*/
+    background: #3fa46a;
+    border-radius: 5px;
+  }
+  
+  .link-1 {
+    transition: 0.3s ease;
+    background: #3fa46a;
+    color: #ffffff;
+    font-size: 22px;
+    text-decoration: none;
+    border-top: 4px solid #3fa46a;
+    border-bottom: 4px solid #3fa46a;
+    padding: 15px 0;
+    margin: 0 15px;
+  }
+  
+  .link-1:hover {
+    border-top: 4px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
+    padding: 6px 0;
+    box-shadow: 5px rgba(0, 0, 0, .4);
+  }
+  
+  .social-media-icons {
+    max-width: 400px;
+    height: 100px;
+    float: left;
+    margin-left: 1350px;
+    margin-top: -81px;
+  }
+  
+  .social-media-icons img {
+    margin-right: 16px;
+    margin-bottom: 15px;
+    opacity: .5;
+    transition: all 1.5s ease-in-out;
+  }
+  
+  .social-media-icons img:hover {
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+    opacity: 1;
+  }
+  
+  .social-media-icons span {
+    z-index: 10;
+    display: none;
+    padding: 14px 20px;
+    margin-top: 90px;
+    margin-left: -75px;
+    width: 200px;
+    line-height: 16px;
+    border-radius: 2px;
+    box-shadow: 0px 0px 8px 4px #666;
+  }
+  
+  .social-media-icons:hover span {
+    display: inline;
+    position: absolute;
+    border: 2px solid #FFF;
+    color: #FFF;
+    background: #1b1b1b repeat-x 0 0;
+    text-align: center;
+    transition: all 5s ease-in-out;
+  }
+  
+  .main-window {
+    background-color: #e8eaf0;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, .3);
+    max-width: 800px;
+    margin-top: -50px;
+    margin-left: 10px;
+    height: 620px;
+    border-radius: 5px;
+  }
+  
+  .hero-images {
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, .3);
+    max-width: 810px;
+    height: 400px;
+    margin-top: -620px;
+    margin-left: 885px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid white;
+  }
+  
+  .image-gallery {
+    width: 820px;
+    height: 190px;
+    margin-left: 890px;
+    margin-top: 33px;
+  }
+  
+  .image-gallery img {
+    border-radius: 25%;
+    margin-right: 16px;
+    margin-bottom: 15px;
+    border: 3px solid white;
+    opacity: .5;
+    transition: all .7s ease-in-out;
+    width: 100%;
+  }
+  
+  .image-gallery img:hover {
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+    opacity: 1;
+  }
+  
+  .content {
+    margin: 100px 25px;
+    font-family: "Candara";
+    font-size: 1.05em;
+    bottom: -100px;
+    color: #000000;
+  }
+  
+  .footer-block {
+    background-color: #e8eaf0;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, .3);
+    max-width: 90%;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+  }
+  
+  .vertical_line_1 {
+    height: 100px;
+    width: 1px;
+    background: #000;
+    margin-top: -125px;
+    margin-left: 60px;
+  }
+  
+  .vertical_line_2 {
+    height: 100px;
+    width: 1px;
+    background: #000;
+    margin-top: -90px;
+    margin-left: 300px;
+  }
+  
+  .vertical_line_3 {
+    height: 100px;
+    width: 1px;
+    background: #000;
+    margin-top: -125px;
+    margin-left: 800px;
+  }
+  
+  .contact-us {
+    margin-left: 80px;
+    margin-top: -90px;
+    max-width: 300px;
+    height: 100px;
+    font-family: "Papyrus";
+    font-size: 1.1em;
+    text-align: center;
+  }
+  
+  #map {
+    width: 100%;
+    height: 90%;
+    margin-top: -130px;
+    margin-left: 350px;
+    text-align: center;
+  }
+  
+  .footer-text {
+    width: 400px;
+    margin-left: 1000px;
+    margin-top: -60px;
+    font-weight: bold;
+    font-family: "Papyrus";
+    font-size: 1.1em;
+  }
